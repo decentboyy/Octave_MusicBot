@@ -41,6 +41,9 @@
 
 <p align="center"><img src="https://te.legra.ph/file/01cdddb3a41aabfd5d27b.jpg" alt="Decent Boy Github" width="1000px" /></p>
 
+<h2 align="center">
+   Octave Music Bot
+</h2>
 
 ![alt text](https://te.legra.ph/file/d3dc7279a9d3dae428030.jpg)
 
