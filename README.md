@@ -45,9 +45,9 @@
    Octave Music Bot
 </h2>
 
-<h2 align="center">
+
 ![alt text](https://te.legra.ph/file/d3dc7279a9d3dae428030.jpg)
-</h2>
+
 
 <h2 align="center">
   Deployment Methods
