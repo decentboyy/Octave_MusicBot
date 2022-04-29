@@ -39,7 +39,7 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/star.gif" alt="NotReallyShikhar Github" width="1000px" /></p>
+<p align="center"><img src="https://decentboyy.github.io/Portfolio/" alt="NotReallyShikhar Github" width="1000px" /></p>
 
 
 
