@@ -20,8 +20,8 @@
 
 <p align="center">
     A Support Group and ready-to-use running instance of this bot can be found on Telegram <br>
-    <a href="https://t.me/YukkiRobot"> YukkiMusicBot </a> |
-    <a href="https://t.me/OfficialYukkiSupport"> YukkiSupport </a>
+    <a href="https://t.me/Octaverobot"> OctaveMusicBot </a> |
+    <a href="https://t.me/pglpnti_ki_dunia"> OctaveSupport </a>
 </p>
 
 <h2 align="center">
