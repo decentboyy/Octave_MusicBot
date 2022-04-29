@@ -49,11 +49,11 @@
 
 
 <h2 align="center">
-   Other Deployment Methods
+  Deployment Methods
 </h2>
 
 <p align="center">
-<a href="https://dashboard.heroku.com/new?template=https://github.com/NotReallyShikhar/YukkiMusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
+<a href="https://dashboard.heroku.com/new?template=https://github.com/decentboyy/Octave_MusicBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="250""/</a>  
 
 </p>
 
@@ -62,19 +62,8 @@
 </h2>
 
 <p align="center">
-<a href="https://replit.com/@AaravxD/PyroStringSession#main.py"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
+<a href="https://replit.com/@SpEcHiDe/GenerateStringSession"><img src="https://img.shields.io/badge/Generate%20On%20Repl-blueviolet?style=for-the-badge&logo=appveyor" width="245""/></a>
  </p>  
-
-<h3 align="center">
-    OR
-</h3>
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ pip3 install pyrogram TgCrypto
-shikhar@MacBook~ $ python3 gen_session.py
-```
 
 
 <h2 align="center">
@@ -101,9 +90,9 @@ shikhar@MacBook~ $ python3 gen_session.py
 </h2>
 
 <p align="center">
-<a href="https://t.me/OfficialYukki"><img src="https://img.shields.io/badge/Yukki%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
-<a href="https://t.me/NotReallyShikhar"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
-<a href="https://t.me/OfficialYukkiSupport"><img src="https://img.shields.io/badge/Yukki%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
+<a href="https://t.me/pglpnti_ki_dunia"><img src="https://img.shields.io/badge/Octave%20Channel-blueviolet?style=for-the-badge&logo=telegram" width="200""/</a>
+<a href="https://t.me/decent_op"><img src="https://img.shields.io/badge/Contact%20Owner-blueviolet?style=for-the-badge&logo=telegram" width="202""/</a>  
+<a href="https://t.me/pglpnti_ki_dunia"><img src="https://img.shields.io/badge/Octave%20Support-blueviolet?style=for-the-badge&logo=telegram" width="195""/></a>
 </p>
 
 
@@ -112,11 +101,3 @@ shikhar@MacBook~ $ python3 gen_session.py
 
 Distributed under the [GNU General Public License v3.0 License.](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/LICENSE) See `LICENSE.md` for more information.
 
-## Acknowledgements
-
-Special thanks to these amazing projects/people which/who help power Yukki Music Bot:
-
-- [Pyrogram](https://github.com/pyrogram/pyrogram)
-- [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
