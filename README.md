@@ -42,27 +42,7 @@
 <p align="center"><img src="https://te.legra.ph/file/01cdddb3a41aabfd5d27b.jpg" alt="Decent Boy Github" width="1000px" /></p>
 
 
-
-<h2 align="center">
-   Install Locally Or On A VPS
-</h2>
-
-
-```console
-shikhar@MacBook~ $ git clone https://github.com/notreallyshikhar/YukkiMusicBot
-shikhar@MacBook~ $ cd YukkiMusicBot
-shikhar@MacBook~ $ pip3 install -U -r requirements.txt
-shikhar@MacBook~ $ cp sample.env .env
-```
-
-<h3 align="center">
-    Edit <b>.env</b> with your own values and Run Bot
-</h3>
-
-```console
-shikhar@MacBook~ $ bash start
-```
-![alt text](https://github.com/notreallyshikhar/YukkiMusicBot/blob/main/Utils/screen.png)
+![alt text](https://te.legra.ph/file/d3dc7279a9d3dae428030.jpg)
 
 
 <h2 align="center">
