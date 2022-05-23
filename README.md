@@ -39,7 +39,7 @@
    Stay Up-to-Date
 </h2>
 
-<p align="center"><img src="https://te.legra.ph/file/01cdddb3a41aabfd5d27b.jpg" alt="Decent Boy Github" width="1000px" /></p>
+<p align="center"><img src="https://te.legra.ph/file/a1cc633bae481d78be13f.jpg" alt="Decent Boy Github" width="1000px" /></p>
 
 <h2 align="center">
    Octave Music Bot
